@@ -1,3 +1,4 @@
+package Week8;
 import java.util.Scanner;
 //Nama: Dhesta Ramadhani Pramana//
 //no.Absen: 10//
