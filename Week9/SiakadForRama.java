@@ -22,5 +22,6 @@ public class SiakadForRama {
         }
         System.out.println("Nilai tertinggi: " + tertinggi);
         System.out.println("Nilai Terendah: " + terendah);
+        sc.close();
     }
 }

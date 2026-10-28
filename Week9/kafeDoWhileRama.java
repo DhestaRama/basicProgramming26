@@ -26,5 +26,6 @@ public class kafeDoWhileRama {
             System.out.println("Total yang harus dibayar: Rp " + totalHarga);
             sc.nextLine();
         }while (true);
+        sc.close();
     }
 }

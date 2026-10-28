@@ -36,5 +36,6 @@ public class SiakadWhileRama {
             }
             i++;
         }
+        sc.close();
     }
 }
