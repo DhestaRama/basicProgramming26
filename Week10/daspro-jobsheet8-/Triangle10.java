@@ -7,7 +7,7 @@ public class Triangle10 {
         int n = sc.nextInt(); 
   
         int i = 0;         
-        while (i <= n) {             
+        while (i <= n) {         
             int j = 0;             
             while (j < i) { 
                 System.out.print("*");                
