@@ -1,9 +1,9 @@
 # JOBSHEET 4 - PEMILIHAN 1
 
 **Identitas Mahasiswa:**
-* **Nama:** [Nama Mahasiswa]
-* **NIM:** [NIM Mahasiswa]
-* **Kelas / No. Presensi:** [1A / 01]
+* **Nama:** Dhesta Ramadhani Pramana
+* **NIM:** 264107020215
+* **Kelas / No. Presensi:** TI-1D
 
 ---
 
@@ -11,18 +11,19 @@
 
 Berikut adalah tujuan pelaksanaan praktikum pada bab ini:
 
-1. Mahasiswa mampu memahami konsep dasar struktur pemilihan (*conditional statement*).
-2. Mahasiswa mampu mengimplementasikan perintah `if`, `if-else`, dan `switch-case` pada Java.
-3. Mahasiswa mampu menganalisis alur eksekusi logika percabangan.
+1. 	Memahami konsep perulangan bersarang pada algoritma  
+2. 	Memahami alur perulangan bersarang 
+3. Mengenal sintaks perulangan bersarang 
+4. Mampu menerapkan perulangan bersarang untuk menyelesaikan studi kasus sederhana.
+
+
 
 ---
 
-## 2: HASIL PERCOBAAN & ANALISIS
+## 2: PRAKTIKUM
 
-### 2.1 Percobaan 1: Penerapan Struktur IF-ELSE
-
-Ini adalah paragraf contoh yang menjelaskan gambaran singkat mengenai percobaan pertama. Pada bagian ini, mahasiswa diminta untuk menerapkan kondisi `if-else` sederhana.
-
+### 2.1 Percobaan 1: Review Perulangan 1 
+Percobaan ini mengulang konsep perulangan FOR sebelum mempelajari perulangan bersarang. Program menampilkan karakter * sebanyak n kali secara mendatar (ke arah samping). Gunakan input n berupa bilangan bulat positif. 
 #### 2.1.1 Kode Program Java
 ```java
 // Contoh kode program dummy Percobaan 1

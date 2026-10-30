@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SiakadWhileRama {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Siakah While");
+        System.out.println("Siakad While");
         int nilai, jml, i = 0;
         System.out.println("Masukkan Jumlah Mahasiswa: ");
         jml = sc.nextInt();
@@ -21,6 +21,7 @@ public class SiakadWhileRama {
  
             if (nilai > 80 && nilai <= 100) {
                 System.out.println("Nilai Mahasiswa ke-" + (i + 1) + " adalah A");
+                System.out.println("Bagus, pertahankan nilainya!");
             } else if (nilai > 73 && nilai <=80) {
                 System.out.println("Nilai Mahasiswa ke-" + (i + 1) + " adalah B+");
             } else if (nilai > 65 && nilai <=73) {
