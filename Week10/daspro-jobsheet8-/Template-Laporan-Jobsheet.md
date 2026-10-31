@@ -55,7 +55,7 @@ Pada percobaan ini digunakan nested loop FOR untuk mencetak persegi panjang bint
 [Rectangle10.java](Rectangle10.java)
 
 #### 2.1.2 Hasil Running / Screenshot Output
-Berikut adalah contoh tampilan *output* setelah program dijalankan:
+Berikut adalah contoh tampilan *output* setelah program dijalankan:  
 ![Output Program](/Week10/daspro-jobsheet8-/Screenshot%202026-10-30%20230558.png)
 
 #### 2.2.3 Jawaban Pertanyaan / Pertanyaan Refleksi
