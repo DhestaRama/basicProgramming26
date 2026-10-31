@@ -6,25 +6,27 @@ public class Triangle10 {
         System.out.print("Masukkan nilai n = ");         
         int n = sc.nextInt(); 
   
-        int i = 1;         
-        while (i <= n) {         
-            int j = 0;             
-            while (j < i) { 
-                System.out.print("*");                
-                j++;             
-                }             
-                System.out.println();
-                i++;         
-            } 
-        while (n <= i && n > 0) {         
-            int j = 0;             
-            while (j < n) { 
-                System.out.print("*");                
-                j++;             
-                }             
+        int i = 1;
+        while (i <= n) {
+            int j = 0;
+            while (j < i) {
+                System.out.print("*");
+                j++;
+                }
             System.out.println();
-            n--;         
-            } 
+            i++;
+        }
+        i = n;
+        while (i >= 1) {
+            int j = 0;
+            while (j < i) {
+                System.out.print("*");
+                j++;
+            }
+            System.out.println();
+            i--;
+        }
+
         sc.close(); 
     } 
 
